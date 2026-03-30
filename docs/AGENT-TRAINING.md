@@ -184,3 +184,59 @@ Add two example edits → Set strength 8/10, mark as "Core" for LinkedIn → Sav
 Within the next few posts, Cadence's replies shift noticeably. Card appears in Training Log with growing strength.
 
 *Pave Tomorrow.*
+
+---
+
+## Agent Learning Process (Complete)
+
+### 1. Core Learning Mechanisms
+
+**Implicit (Passive)**
+Every interaction is a signal: accept/edit/delete suggestions, engagement on BackRoad replies, frequency of overrides. Fed into Shared Memory, processed during Memory Consolidation.
+
+**Explicit (Active)**
+- Thumbs up/down, ratings in Training Log
+- Manual edits analyzed — delta becomes a preference
+- Natural language: "Cadence, be more concise on LinkedIn" / "Pixel, warmer tones for families" / "Roadie, more guiding questions with teens"
+- Stored as Preference Cards influencing future behavior
+
+**Convoy-Wide**
+Learning spreads through CarPool. Cadence learns you prefer subtle road metaphors → suggested to RoadWork emails, Roadie explanations, etc.
+
+### 2. Memory Consolidation in Learning
+
+Runs after campaigns, 10-20 interactions, or scheduled quiet periods. Distills raw interactions into actionable preferences:
+- Surface: "Use shorter sentences"
+- Deeper: "User values clarity mixed with warmth when communicating with parents"
+
+Stored in Warm Layer of Tiered Memory. Foundation for all future agent behavior.
+
+### 3. Training Log — Control Center
+
+Preference Cards show: what was learned, strength (fuel gauge), evidence (interaction count), performance impact. Manual controls: reinforce, edit, weaken, remove, view full history.
+
+### 4. Reinforcement Loop
+
+- **Positive**: high engagement, your approval, successful outcomes → strengthen
+- **Negative**: corrections, low engagement, explicit "don't do this" → weaken
+- Lightweight RL within existing architecture — no heavy retraining
+
+### 5. Evolution Timeline
+
+- **Days 1-7**: Surface preferences (tone, length, common phrases)
+- **Weeks 1-4**: Strong voice and audience understanding
+- **Months 1+**: Highly personalized — anticipates needs, adapts naturally. Like a team that's worked with you for years.
+
+### 6. Transparency & Control
+
+- Pause learning per agent or convoy-wide
+- Reset any agent to default
+- Review and edit every preference
+- Export full training history via OneWay with RoadChain proof
+- Everything logged on RoadChain — see exactly when and why anything was learned
+
+### Example Timeline
+
+**Week 1**: Edit Cadence's LinkedIn replies to be warmer with road metaphors → Preference Card created.
+**Week 3**: Cadence naturally uses warmer tone + metaphors → thumbs-up → strength increases.
+**Month 2**: Cadence writes in your style with almost no edits → preference in Warm Layer, influences other agents.
