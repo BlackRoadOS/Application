@@ -190,3 +190,34 @@ Tap+drag with larger targets. Pinch zoom with auto-centering. Two-finger swipe =
 - Synced parental controls across all devices
 - Published games playable on any device
 - Cross-platform leaderboards and shared RoadCoin rewards
+
+---
+
+## Agent Adaptation by Device
+
+### Desktop (Precision)
+Pixel: "Align these buildings to 15-degree angle for visual flow? I can add shadow details."
+Cecilia: "This intersection bottlenecks. A roundabout improves flow by ~23% per RoadWork sim data."
+Cadence: "For the billboard: 'Welcome to Highway City — Population Growing One Road at a Time'"
+Agents use exact numbers, fine adjustments, technical suggestions — matching precise mouse control.
+
+### Tablet (Creative)
+Pixel: "Try pinching to rotate 45 degrees. Want a warmer palette matching the hills?"
+Cecilia: "This area feels empty. Should I place a park or roadside attractions for balance?"
+Roadie: "This hill could be a fractions challenge. Want a fuel-gauge display so players learn while building?"
+Big-picture creativity, gesture-friendly, visual focus.
+
+### Phone (Quick)
+Pixel: "Track looks great! Want me to add some trees along the side?"
+Cecilia: "Last corner feels tricky on mobile. Should we widen it?"
+Roadie: "Players might get stuck here. Want a hint popup or fun road sign?"
+Extra concise, respects limited screen and time.
+
+### Mixed-Device Session
+Pixel splits attention — detailed shadows for desktop user, "pinch to rotate" for tablet, "fun cheer animation" for phone playtester. All agents coordinate across devices automatically.
+
+### Adaptation Rules
+- Desktop: detailed, technical, precise with numbers
+- Tablet: visual, gesture-aware, creative focus
+- Phone: short, friendly, high-level
+- Always considers role (builder vs playtester) and adjusts
