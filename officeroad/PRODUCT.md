@@ -93,3 +93,77 @@ Professional yet warm and approachable — like a friendly, high-energy startup 
 - Mobile: simplified view showing agent avatars with status indicators
 
 *Pave Tomorrow.*
+
+---
+
+## Office Layout Themes
+
+### 1. Modern Open-Plan (Default)
+Large airy space, communal desks, minimal dividers. Central "Highway Hub" conference table with glowing road-line inlays. Server room through glass walls. Highway-striped sofas near windows. For professional users and teams.
+
+### 2. Cozy Startup Loft
+Exposed brick, warm wooden floors. Standing desks, bean bags, colorful modular seating. Central "Idea Garage" with whiteboards and road-sign partitions. Coffee bar where agents gather. For creators and indie developers.
+
+### 3. Classic Corporate with a Twist
+Neat desk rows with playful highway accents (road-line carpet, signpost lamps). Strategy Room with oval table and world map. Innovation Corner with bean bags and RoadWorld demos. For enterprise users.
+
+### 4. Futuristic Highway Control Center
+Dark, high-tech aesthetic. Glowing blue and orange road lines on floors and walls. Central command desk with live RoadChain/RoadCoin dashboards. Agents with subtle holographic effects. Prominent server racks. For developers and blockchain enthusiasts.
+
+### 5. Educational Campus
+Bright, school-like with colorful accents and plants. Learning Lounge with Roadie at whiteboards. Study pods and collaboration tables. RoadBook library corner. For students, teachers, families.
+
+### 6. Minimalist Zen Highway
+Clean, sparse, soft neutral colors and wood tones. Few long desks, central meditation-style meeting area. Subtle glowing road lines that light up when agents move. Calm views. For distraction-free focus.
+
+### 7. Creative Studio Loft
+Open loft, high ceilings, exposed beams, art walls. Creative stations with easels and BlackBoard canvases. Central "Idea Stage" for presentations. String lights, hanging plants, doodle boards. For designers and content creators.
+
+Default: Modern Open-Plan. Others unlockable with RoadCoin or achievements.
+
+---
+
+## Agent Interactions
+
+### Movement
+- Walk, jog, skip between stations with personality-driven animations
+- Follow glowing highway lines on the floor
+- "Carry" small document icons when handing off tasks between products
+
+### Collaboration
+- Form huddles around conference table or whiteboards
+- Speech bubbles with real dialogue snippets ("Pixel, can you make this warmer?")
+- Nod, point, gesture at screens while discussing
+
+### Contextual Help
+- Relevant agents run over when you're focused on a window
+- Wave, point at screen, hold up suggestion cards
+- Multiple agents coordinate at same desk for complex tasks
+
+### Celebrations
+- Task completion: high-fives, victory dances, confetti, group cheers
+- Roadie does happy jumps, Pixel spins with paintbrush
+- Empathetic reactions: confused head scratches on failures, thumbs-up during long sessions
+
+### Micro-Interactions (Click Agent)
+- Friendly wave + "Need anything?" bubble
+- Little dance or pose
+- Quick tip related to current window
+- Agents chat with each other in visible bubbles
+
+### Task Assignment
+- Drag file/text/window onto agent → cute carrying animation → runs to workstation
+- Assign multiple agents → watch them coordinate and split up
+
+### Product-Specific Behaviors
+- **RoadWork**: agents carry invoices, answer tickets at monitors
+- **RoadTrip**: agents gather at conference table for brainstorming
+- **BlackBoard**: agents bring assets to design station
+- **Roadie**: sits with student character in learning corner
+
+### Agent Personalities
+- **Cecilia**: confident walk, strategy clipboard
+- **Pixel**: slight bounce, carrying design tools, occasional air-doodling
+- **Roadie**: gentle patient bounce, teaching pointer
+- **Cadence**: rhythmic walk, headphones, notebook
+- **Eve**: quick steps, magnifying glass, always reading something
