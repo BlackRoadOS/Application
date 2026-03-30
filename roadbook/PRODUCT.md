@@ -93,3 +93,41 @@ Version history tracked on RoadChain. Citation tracking with RoadCoin earnings. 
 RoadTrip brainstorm → RoadView adds verified sources → RoadBook drafting with convoy → BlackBoard visuals embedded → One-tap publish → RoadChain provenance → BackRoad promotion → RoadCoin earned on citations.
 
 Everything connected through Shared Memory. No copy-paste. No tool switching.
+
+---
+
+## Step 2 Deep-Dive: Intelligent Drafting
+
+### Smart Context Loading
+On entering draft mode, Shared Memory surfaces: related RoadTrip conversations, verified RoadView facts, BlackBoard visual assets, past writing style. "Memory Highlights" sidebar with clickable insertable snippets.
+
+### Convoy-Assisted Writing
+- **Cecilia** — structure and logical flow ("Move the key insight earlier")
+- **Cadence** — clarity, tone, elegant phrasing true to your voice
+- **Eve** — background fact-checking, RoadView citation suggestions
+- **Pixel** — generates or suggests visuals/infographics to embed
+- @mention any agent inside the editor for paragraph-level help
+
+### AI Writing Tools (Without Taking Over)
+- **Suggest Mode** — highlight paragraph, get 2-3 rewrites preserving your voice
+- **Expand / Condense** — one-tap to make sections longer or tighter
+- **Outline Generator** — bullet points → full structured outline with headings
+- **Tone Matcher** — auto-matches your established style from past work
+
+### Visual & Multimedia
+- Drag-and-drop BlackBoard assets into the article
+- Embed interactive elements (charts, RoadWorld sims, Roadie learning modules)
+- Real-time preview pane (desktop, mobile, PDF)
+
+### Live Provenance
+- RoadChain stamps every paragraph and asset in background as you write
+- "Verified" indicators on RoadView-sourced facts
+- Live version history with timestamps and contributor attribution
+
+### Smart Assistance
+- **Citation Assistant** — RoadView suggests verified sources as you type, one-click insert
+- **Readability Checker** — gentle clarity/flow suggestions without changing voice
+- **Road Metaphor Helper** — convoy suggests natural road metaphors for your content
+
+### UX
+Clean white space with subtle road-line dividers. Convoy appears as helpful side panels, not overwhelming pop-ups. You stay in control — accept, ignore, or direct ("Make this more concise").
