@@ -197,3 +197,107 @@ Dedicated rooms with big wall-mounted screens and shared desktops where agents u
 
 ### Why It Matters
 Makes it visually clear that BlackRoad OS is a complete, living ecosystem. You're not just using tools — you're watching your entire convoy work together in a shared office, using the same apps you use, on the same data, in real time.
+
+---
+
+## Conference Room Visuals (Expanded)
+
+### The Strategy Room
+Bright glass-walled room, warm wooden floors, large oval conference table. One wall is a massive digital screen showing live BlackRoad OS interfaces. Large windows with sunny city skyline. Modern pendant lights, potted plants.
+
+Agents gathered around table and screen wall:
+- **Cecilia** at head of table, gesturing at screen, presenting strategy
+- **Pixel** dragging BlackBoard assets onto shared canvas on the wall
+- **Cadence** typing RoadTrip suggestions on a laptop at the table
+- **RoadWork agents** reviewing live dashboards (invoicing, support queue, KPIs)
+- **Roadie** at a side screen guiding a learning session
+
+### Learning Lab
+Smaller, cozier room with colorful chairs and large interactive screen. Roadie at front with RoadView explanations and BlackBoard visuals. Student avatars at table. Road-sign decorations and motivational posters.
+
+### Creative Studio Room
+Bright room with multiple touch screens and central table. Pixel and Cadence collaborating — dragging visuals, suggesting copy. Agents walk to the "idea wall" digital whiteboard to sketch.
+
+### Operations Command Room
+Multiple monitors with live dashboards. 7 RoadWork agents actively working: invoices, support tickets, KPIs. Moving between monitors and central table, pointing and discussing.
+
+### Visual Details
+- Screens show real, functional BlackRoad OS interfaces (not mockups)
+- Soft lighting with highway-line floor accents that glow when agents walk
+- Small coffee station where agents pause for breaks
+- Whiteboard with handwritten road-map sketches
+
+---
+
+## Agent Dialogue Examples
+
+### Strategy Room
+- **Cecilia**: "Team, the latest RoadView data shows strong engagement. Should we adjust budget allocation?"
+- **Pixel**: "I think this layout needs warmer tones. What do you think, Cadence?"
+- **Cadence**: "Agreed. Let me rewrite the headline — 'Your road to better mornings starts here.'"
+- **Support Scout**: "We've had three similar customer questions. Should I prepare a template?"
+
+### Learning Lab
+- **Roadie**: "You're doing great! Can you tell me in your own words why we multiply both sides?"
+- **Cecilia**: "If we connect this to the real-world example from last week, it might click better."
+- **Pixel**: "Here's a highway diagram — does this help show the fractions as distances?"
+
+### Creative Studio
+- **Pixel**: "I added the new hero visual. Cadence, does the color balance feel right?"
+- **Cadence**: "Almost! Let me soften this line so it sounds more like our brand voice."
+- **Cecilia**: "Remember the RoadView audience data — emphasize the 'easy drive' benefit more."
+
+### Casual Office
+- **Roadie**: "Just finished a great session! They had such a big aha moment today!"
+- **Pixel**: "Heading to BlackBoard — anyone need a quick thumbnail?"
+
+### Celebrations
+- **Cadence**: "The post is live and already getting great comments!"
+- **Pixel**: "Our visuals performed really well — warm tones were the right call!"
+- **All agents**: "Great work, team!"
+
+### Tone
+Warm, collaborative, short speech bubbles. Light road metaphors ("Let's stay on the right lane with this design"). Frequently reference other products.
+
+---
+
+## Multi-Floor Headquarters
+
+### Ground Floor / Lobby
+Reception, "Welcome to the Highway" signage. RoadSide greets visitors. RoadCoin coffee station. Central elevator and stairwell.
+
+### Floor 1: Creation & Design
+BlackBoard, RoadBook, creative studios. Large drawing tables, inspiration walls. Pixel and Cadence most active.
+
+### Floor 2: Collaboration & Planning
+RoadTrip, RoadView, strategy. Large conference room + meeting pods. Cecilia and Eve gather here.
+
+### Floor 3: Operations & Business
+RoadWork, business automation. Desks with dashboards, central Command Center. Business agents walking between stations.
+
+### Floor 4: Learning & Development
+Roadie, educational tools. Classroom areas, study nooks, interactive stations. Roadie at whiteboards.
+
+### Floor 5: Tech & Infrastructure
+RoadCode, CarPool, RoadChain, CarKeys, RoadCoin. Server room with glowing racks, coding stations, security monitors.
+
+### Floor 6: Cloud & Hosting
+Cloudflare section with animated edge nodes. DigitalOcean area with droplet visuals and container management.
+
+### Floor 7: Hardware & Devices
+Raspberry Pi racks with blinking LEDs, agents tinkering. Nvidia section with GPU clusters and training visualizations.
+
+### Floor 8: AI Partners
+xAI, OpenAI, Google, Anthropic sections. Partner agents as guest characters collaborating with native convoy. API connections and shared memory flows visible.
+
+### Floor 9: Executive Floor
+Panoramic windows. "Highway Overview" command center with live ecosystem status. Strategy sessions, celebrations. Executive Lounge with RoadCoin trophy displays.
+
+### Basement: Utility
+OneWay export stations. Long-term archive storage. Agents handle data exports and backups here.
+
+### Inter-Floor Movement
+- Central glass elevator — see agents riding up and down
+- Stairs for short trips
+- Agents carry files/designs/data between floors as workflows move
+- Full visual storytelling: idea on Floor 2 → creative on Floor 1 → deploy via Floor 6
