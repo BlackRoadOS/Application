@@ -97,3 +97,84 @@ Every memory creation, update, consolidation step hashed and anchored. Prove exa
 RoadTrip is the lively back seat that makes every ride feel alive. It turns solo AIs into a collaborative team that remembers everything, works together, and grows with you. Whether building with RoadWork, creating on BlackBoard, learning with Roadie, or just brainstorming — the convoy is always there, sharp, supportive, and never forgetting a single mile.
 
 *Pave Tomorrow.*
+
+---
+
+## Tiered Memory Architecture (Expanded)
+
+### Hot Layer — Active, Instant Recall
+- Recent messages, active projects, core preferences, high-confidence RoadView facts
+- Sub-second retrieval via in-memory + fast cache
+- Deliberately lean — low-relevance items auto-demoted during consolidation
+- Strongly guarded, rarely pruned unless explicitly allowed
+
+### Warm Layer — Consolidated Wisdom
+- Summarized insights from consolidation cycles
+- Relationship graphs ("pricing discussion links to RoadWork invoice template")
+- Medium-term patterns and learned behaviors ("prefers concise copy with road metaphors on LinkedIn")
+- Auto-populated during consolidation. Manually promotable/demotable.
+
+### Cold Layer — Complete Archive
+- Raw chat logs, older memories, audit trails, selectively archived items
+- Seconds to retrieve. Agents query Cold only when Hot+Warm don't have the answer.
+- Fully searchable via semantic queries. Browsable in Road Log.
+- Complete OneWay export with all tiers.
+
+### Dynamic Movement
+- Frequently referenced → promoted to Hot
+- Valuable but rare → stays Warm
+- Low-signal/outdated → settles to Cold
+- Every tier movement logged on RoadChain
+
+### Road Log Interface
+- Hot = bright active road lines, Warm = steady highway, Cold = archived side roads
+- One-click promote, demote, protect, hard-delete
+- Search across all tiers with layer labels on results
+
+---
+
+## Memory Consolidation Process (Expanded)
+
+### Triggers
+- **Automatic**: after milestones, scheduled quiet periods, size thresholds
+- **Manual**: force from Training Log or Road Log anytime
+
+### The Pipeline
+
+**Step A: Summarization**
+Long/repetitive threads condensed into high-signal summaries. Three depths:
+- **Micro-Summary**: single sentence ("Decided on tiered pricing with road-metaphor branding")
+- **Mid-Level**: structured bullet points with decisions, action items
+- **Context-Rich**: includes nuances, preferences, connections to past rides (stored in Warm)
+
+Agent collaboration: Cecilia (structure), Cadence (language), Eve (fact-check), Roadie (educational framing). Consensus before finalizing.
+
+Quality checks: preserves meaning, maintains tone, includes decisions, removes redundancy. Low-quality flagged for review.
+
+**Step B: Merging Similar Memories**
+Multiple conversations on same topic merged into single stronger fact node with reinforced confidence.
+
+**Step C: Relationship Graphs**
+Links related memories across products: "pricing discussion from RoadTrip → invoice template in RoadWork → customer feedback in RoadView"
+
+**Step D: Preference Extraction**
+Identifies behavioral patterns: "User prefers concise copy with subtle road metaphors when addressing parents or educators"
+
+**Step E: Selective Decay**
+Low-relevance details deprioritized or moved to Cold. Never truly deleted unless you choose. Keeps active memory sharp.
+
+**Step F: Reflective Integration**
+Agents generate higher-level insights: "You consistently value clarity mixed with warmth for family audiences"
+
+### After Consolidation
+- High-value insights → Hot Layer
+- Summarized knowledge → Warm Layer
+- Raw data → Cold Layer
+
+### User Control
+- **Consolidation Preview**: transparent before/after in Training Log
+- Approve, edit, reject proposed changes
+- Full history on RoadChain with timestamps and comparisons
+
+### Real Example
+3-month marketing campaign → hundreds of raw messages → system distills into "Campaign Strategy Summary" node → extracts key preferences → raw logs to Cold, summary to Warm → you review, make one edit, approve → convoy immediately sharper for next campaign.
