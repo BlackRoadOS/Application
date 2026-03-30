@@ -131,3 +131,45 @@ On entering draft mode, Shared Memory surfaces: related RoadTrip conversations, 
 
 ### UX
 Clean white space with subtle road-line dividers. Convoy appears as helpful side panels, not overwhelming pop-ups. You stay in control — accept, ignore, or direct ("Make this more concise").
+
+---
+
+## Convoy-Assisted Writing (Deep-Dive)
+
+### Natural Presence
+Agents appear as subtle side panels or floating assistants — never take over the screen. @mention any agent in text ("@Cadence, make this opening warmer") or tap their avatar. Respectfully in background until needed.
+
+### Agent Roles During Drafting
+
+**Cecilia (Strategy & Structure)**
+Suggests logical flow, section ordering, argument strength.
+"Moving the key insight to the second paragraph would create a stronger hook."
+
+**Cadence (Copy & Tone)**
+Elegant phrasing, rhythm, staying true to your brand voice. Learns your style over time. Rewrites feel like you wrote them.
+
+**Eve (Research & Verification)**
+Background fact-checking. Suggests RoadView-verified citations. Pulls relevant Shared Memory to strengthen arguments.
+
+**Pixel (Visual Thinking)**
+Suggests where to embed visuals, infographics, diagrams from BlackBoard. Can generate simple illustrations directly in the editor.
+
+**Other Agents** — Roadie for educational framing, RoadWork for business context, etc.
+
+### Suggestion Modes
+- **Inline Suggestions** — highlight paragraph, tap "Suggest", get 2-3 refined versions. Accept, merge, or ignore.
+- **Expand / Condense / Rephrase** — one-tap actions without typing instructions
+- **"What If" Mode** — explore alternative angles ("Frame this from sustainability angle?")
+- **Tone Lock** — lock entire draft to your learned voice for consistent suggestions
+
+### Collaborative Flow
+You write first draft → agents offer gentle sidebar suggestions → you accept/edit/ask for alternatives → system learns from your choices. All suggestions labeled with which agent made them.
+
+### Integration
+- Shared Memory makes suggestions deeply personal
+- RoadChain stamps every suggestion and final edit
+- BlackBoard assets pulled directly while writing
+- RoadView fact-checking on the fly without breaking flow
+
+### Learning Loop
+Every accept, reject, or edit teaches the convoy. After 10-20 articles, agents predict your preferences with high accuracy. Preference Cards in the Training Log show exactly what each agent has learned about your writing style.
