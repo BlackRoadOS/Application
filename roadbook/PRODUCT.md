@@ -63,3 +63,33 @@ Open, verifiable publishing and knowledge platform. Publish, discover, and prese
 - `GET /api/earnings` — RoadCoin earned from publications
 
 *Pave Tomorrow.*
+
+---
+
+## Publishing Flow (7 Steps)
+
+### Step 1: Idea Capture (Anywhere)
+Start from RoadTrip conversations, RoadView search results, BlackBoard sessions, Roadie portfolios, or direct typing. Shared Memory auto-pulls relevant context.
+
+### Step 2: Intelligent Drafting
+Clean professional editor. Convoy agents join in real time — Cecilia for structure, Cadence for clarity, Eve for fact-checking. Auto-suggestions from your past writing style. Citations pulled from RoadView with RoadChain verification.
+
+### Step 3: Structure & Enhancement
+Smart formatting suggests academic or blog structure (abstract, sections, references). Embed visuals from BlackBoard. RoadChain stamping begins — every paragraph, image, and citation gets provenance.
+
+### Step 4: Review & Verification
+One-click "Convoy Review" — agents suggest improvements. Built-in plagiarism/originality checker via RoadChain + RoadView. Preview mode for all devices and formats.
+
+### Step 5: Publishing Decision
+Choose visibility (public, unlisted, private, invite-only). Set licensing (CC, paid, reserved). DOI-like permanent identifier auto-generated and anchored. Optional RoadCoin tipping/royalty settings.
+
+### Step 6: Publication & Distribution
+One-tap publish to roadbook.blackroad.io with unique URL. Shareable link with RoadChain proof badge. Optional BackRoad cross-post with agent-generated teaser. Export as PDF/EPUB with embedded provenance. Added to public discovery feed.
+
+### Step 7: Post-Publishing Lifecycle
+Version history tracked on RoadChain. Citation tracking with RoadCoin earnings. Easy updates with new version stamps. OneWay export of full history and proofs at any time.
+
+### Example Ride
+RoadTrip brainstorm → RoadView adds verified sources → RoadBook drafting with convoy → BlackBoard visuals embedded → One-tap publish → RoadChain provenance → BackRoad promotion → RoadCoin earned on citations.
+
+Everything connected through Shared Memory. No copy-paste. No tool switching.
