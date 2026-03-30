@@ -131,4 +131,56 @@ Evidence: 68 sessions. Impact: Consistent streak bonuses.
 - Trained agents make RoadView searches and Roadie sessions more personalized
 - Everything exportable via OneWay with full provenance
 
+---
+
+## Manual Preference Editing
+
+### Access
+- **Cmd/Ctrl + Shift + T** or dock icon → Training Log → "Edit Preferences" or "+"
+- Highlight any agent reply in BackRoad/RoadTrip → "Save as New Preference"
+- In BlackBoard draft → "Teach Agent" toolbar button
+
+### Quick-Create Mode (Fastest)
+Type or speak a natural instruction:
+- "Cadence should open LinkedIn posts with a short question and end with a subtle call-to-action."
+- "Pixel: Use warmer color palettes and include at least one highway element in every carousel."
+- "Roadie with teens: Be encouraging but never patronizing. Use more road metaphors."
+
+System instantly suggests a polished Preference Card and shows similar existing preferences for context.
+
+### Structured Editor (For Precision)
+- **Preference Name**: Short label (e.g., "LinkedIn Opening Style")
+- **Applies To**: Agent(s) + Platform(s) + Context (e.g., Cadence on LinkedIn when audience includes educators)
+- **Core Rule**: The actual preference in clear language
+- **Strength Slider**: 1–10, how strongly this influences the agent
+- **Examples**: 2–4 before/after examples for nuance
+- **Exceptions**: Edge cases ("Except when replying to complaints — then be more empathetic")
+
+### Smart Suggestions
+- Auto-completions from your past content and Shared Memory
+- Flags conflicts with existing preferences, suggests resolutions
+
+### After Saving
+1. Card appears immediately in Training Log
+2. Agent applies on next relevant interaction (often within minutes)
+3. Memory Consolidation incorporates during next cycle
+4. Confirmation: "Cadence has learned your new LinkedIn style."
+5. Performance impact tracked via RoadView
+
+### Advanced Options
+- **Priority Level**: "Core" (very hard to override) or "Flexible" (adaptive)
+- **Time/Platform Weighting**: "Apply more strongly on weekdays for LinkedIn"
+- **Negative Preferences**: "Never use corporate jargon on TikTok"
+- **Convoy-Wide Propagation**: influence one agent or suggest to similar agents
+- **Version History**: every edit RoadChain-stamped, revertible
+
+### Example Flow
+
+Notice Cadence's LinkedIn replies are too salesy →
+Open recent reply → "Teach Agent" →
+Write: "Start with a thoughtful question. Keep tone helpful and conversational. End with subtle road metaphor when appropriate." →
+Add two example edits → Set strength 8/10, mark as "Core" for LinkedIn → Save.
+
+Within the next few posts, Cadence's replies shift noticeably. Card appears in Training Log with growing strength.
+
 *Pave Tomorrow.*
