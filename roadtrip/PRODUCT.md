@@ -178,3 +178,43 @@ Agents generate higher-level insights: "You consistently value clarity mixed wit
 
 ### Real Example
 3-month marketing campaign → hundreds of raw messages → system distills into "Campaign Strategy Summary" node → extracts key preferences → raw logs to Cold, summary to Warm → you review, make one edit, approve → convoy immediately sharper for next campaign.
+
+---
+
+## Agent-Assisted Summarization (Deep-Dive)
+
+### Trigger & Candidate Selection
+System identifies threads needing summarization (long, completed, repeated, high-value). Assembles temporary "Summarization Convoy" — most relevant agents for that thread.
+
+### Multi-Agent Collaboration
+Agents collaborate in a mini session specifically for summarization:
+
+- **Cecilia** leads: analyzes thread, proposes structure (chronological, thematic, decision-focused)
+- **Cadence** refines: natural language, concise, consistent with your voice, removes filler
+- **Eve** verifies: cross-checks facts against RoadView and Shared Memory, adds citations
+- **Roadie** (educational threads): ensures clarity, suggests simplifications
+- Others join as needed (Pixel for visual summaries, RoadWork agents for business context)
+
+### Iterative Refinement
+Agents generate drafts at three depths (micro, mid-level, context-rich). Review each other's drafts, debate improvements, reach consensus. Final set presented in Training Log as "Before & After" preview.
+
+### User Approval
+See original thread alongside proposed summaries. Options:
+- Approve as-is
+- Edit directly
+- Request different emphasis ("more concise" / "focus on pricing decision")
+- Reject and request re-summarization
+- Feedback immediately learned for future quality
+
+### Memory Integration
+On approval: micro → Hot Layer, mid-level + context-rich → Warm Layer, raw conversation → Cold Layer. All stamped with RoadChain provenance including which agents contributed.
+
+### Example: Marketing Campaign (87 messages, 3 days)
+Cecilia proposes decision-focused structure → Cadence matches warm professional tone → Eve verifies audience data with RoadView citations → agents debate and produce three drafts → you tweak one sentence, approve.
+
+Results:
+- Micro: "Finalized tiered pricing with 'Easy Drive' branding for urban parents; assets ready for BackRoad launch."
+- Mid: key decisions, action items, timeline
+- Context-rich: road metaphor preference + lessons from previous campaign
+
+Convoy updates Shared Memory. Future agents noticeably smarter on similar campaigns.
