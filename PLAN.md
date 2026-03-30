@@ -30,16 +30,18 @@
 
 ---
 
-## What Actually Exists (Code Reality)
+## What Actually Exists (Code Reality — Updated 2026-03-30)
 
-| Status | Products | Total Code |
-|--------|----------|-----------|
-| **LIVE with real code** | BlackRoad OS, RoadTrip, BackRoad, Roadie, RoadChain, RoadCoin, Chat, Auth, Status, HQ, Pay, + 5 creative apps | ~24,000 lines |
-| **Has stub code** | CarKeys (94 lines) | 94 lines |
-| **No code yet** | CarPool, OneWay, RoadSide, RoadWork, RoadCode, BlackBoard (as named) | 0 |
-| **Total live workers** | 17 returning HTTP 200 | All tested |
+| Status | Products | Lines |
+|--------|----------|-------|
+| **LIVE** | BlackRoad OS, RoadTrip, BackRoad, Roadie, RoadView, RoadCode, RoadWork, CarKeys, RoadChain, RoadCoin | ~18,824 |
+| **LIVE** | + Chat, Game, Canvas, Radio, Video, HQ, Auth, Pay, Status, Blog, Brand | ~8,000+ |
+| **PLANNED** | CarPool, OneWay, RoadSide, BlackBoard | 0 |
+| **Total** | 10/14 core products live + 11 supporting apps | ~27,000 lines |
 
----
+**Endpoints:** ~150 API endpoints across all products
+**Agents:** 18 C-Suite AI agents with persistent memory (fleet_knowledge D1)
+**Indexed:** 7,871 search pages, 681 sitemap URLs, 218 blog posts
 
 ## Priority Order: What to Build Next
 
