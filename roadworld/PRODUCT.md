@@ -134,3 +134,59 @@ Click any object for floating panel:
 - Agent NPCs powered by RoadTrip conversation engine
 
 *Pave Tomorrow.*
+
+---
+
+## Agent-Assisted Building Examples
+
+### Racing Game Track
+You drag road pieces → Pixel adds elevation and billboards → Cecilia suggests a chicane for strategy → Cadence writes checkpoint announcements ("Nice drifting! 50 RoadCoin!") → Roadie offers a fractions quiz at the final checkpoint. Core track becomes a rich experience in seconds.
+
+### Educational City Simulator
+You place buildings and roads → Pixel groups houses near parks for livability → Cecilia warns about traffic bottlenecks, suggests roundabout → Roadie adds environmental impact popup near the factory → Cadence writes mayor announcements. Agents walk around testing traffic flow while you build.
+
+### Open-World Adventure
+You lay a scenic highway → Pixel scatters roadside attractions and hidden viewpoints → Cecilia places a fork-in-the-road decision point → Cadence writes NPC dialogue ("Welcome traveler! Got any RoadCoin for a story?") → Roadie designs Socratic puzzles at mysterious ruins.
+
+### Collaborative Session
+You drag a bridge, friend drags a river → Pixel styles the bridge to match riverbank → Cecilia suggests a rest stop with RoadCoin shop → group high-five on completion.
+
+Agents are never intrusive — appear when relevant, wait for input. Accept, modify, or ignore with simple taps.
+
+---
+
+## Cross-Platform Collaboration
+
+### Universal Access
+One link, any device. Desktop (full builder), tablet (touch drawing), phone (playtesting), web browser (no download). Auto-scales for screen and input method.
+
+### Role Adaptation
+- **Desktop**: full drag-and-drop with precise mouse controls
+- **Tablet**: freehand drawing, painting textures, touch gestures
+- **Phone**: playtesting, feedback pins, quick tweaks on the go
+- All see the same live world updating in real time
+
+### Device-Specific Controls
+
+**Desktop (Mouse + Keyboard)**
+Left-click drag = place/move. Right-click = properties. Scroll = zoom. Shift = free placement. Ctrl = multi-select. WASD = pan. Space = playtest. R = rotate. T = terrain brush.
+
+**Tablet (Touch)**
+One-finger drag = place. Two-finger pinch = zoom. Two-finger rotate = rotate object/camera. Long-press = properties. Double-tap = playtest. Three-finger swipe = pan. Smart palm rejection.
+
+**Phone (Touch)**
+Tap+drag with larger targets. Pinch zoom with auto-centering. Two-finger swipe = pan. Long-press = quick actions. Tilt = optional camera tilt. One-hand mode for thumb gestures.
+
+### Real-Time Sync
+- Live presence indicators (avatars + agents visible across devices)
+- Glowing highway lines show where others are building
+- Shared cursor as floating road-sign pointer with name
+- Activity feed: "Sarah added a building" / "Pixel suggesting better lighting"
+- Spatial voice chat, universal text chat with agent participation
+- Quick reaction emotes as floating animations
+
+### Safety & Publishing
+- Host permissions per device ("Phone users can only playtest")
+- Synced parental controls across all devices
+- Published games playable on any device
+- Cross-platform leaderboards and shared RoadCoin rewards
