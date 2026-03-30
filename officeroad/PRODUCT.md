@@ -167,3 +167,33 @@ Default: Modern Open-Plan. Others unlockable with RoadCoin or achievements.
 - **Roadie**: gentle patient bounce, teaching pointer
 - **Cadence**: rhythmic walk, headphones, notebook
 - **Eve**: quick steps, magnifying glass, always reading something
+
+---
+
+## Conference Room Integration
+
+### Glass-Walled Conference Rooms
+Dedicated rooms with big wall-mounted screens and shared desktops where agents use your **actual BlackRoad apps** in real time — not mockups, live functional views.
+
+### What You See
+- Agent standing at screen using **RoadTrip** group chat, typing and gesturing while others watch
+- Agent actively working in **BlackBoard**, dragging assets onto shared canvas
+- Small group huddled around **RoadWork** dashboards reviewing live KPIs
+- Roadie in a learning-focused room, guiding a session with RoadView results visible
+- Agents physically point, gesture, and interact with the apps on screens
+- Live data: RoadChain stamps, RoadCoin balances updating in real time
+
+### Agent Behavior
+- "Walk into" conference rooms when meetings or collaborations start
+- Gather around the table or stand at screens using the apps
+- Speech bubbles: "Let's check the latest RoadView data" / "Cadence, can you refine this BlackBoard layout?"
+- Celebratory animations on task completion (high-five, cheer) right in the room
+
+### Interaction
+- Click any conference room to zoom in and see live app interfaces
+- "Behind-the-scenes" feeling — watching your convoy actively collaborating
+- All 17 products visible being used together in real workflows
+- Conference room activity reflects your actual current tasks and projects
+
+### Why It Matters
+Makes it visually clear that BlackRoad OS is a complete, living ecosystem. You're not just using tools — you're watching your entire convoy work together in a shared office, using the same apps you use, on the same data, in real time.
