@@ -5,8 +5,10 @@
 Code editor and deployment platform in the browser.
 
 **Status:** LIVE
-**Live:** https://roadcode.blackroad.io
+**Live:** [roadcode.blackroad.io](https://roadcode.blackroad.io)
 
-Part of [BlackRoad OS](https://blackroad.io) — Remember the Road. Pave Tomorrow.
+Part of [BlackRoad OS](https://app.blackroad.io) — Remember the Road. Pave Tomorrow.
 
-See [full product features](../brand/PRODUCT-FEATURES.md) | [product copy](../brand/PRODUCTS.md)
+---
+
+**Pave Tomorrow.**

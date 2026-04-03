@@ -1,0 +1,36 @@
+{
+  "name": "@blackroad/application",
+  "version": "0.1.0",
+  "description": "BlackRoad OS — 17 products. One highway. 27 Roadies.",
+  "private": true,
+  "workspaces": [
+    "blackroad-os",
+    "roadtrip",
+    "roadie",
+    "backroad",
+    "roadview",
+    "roadcode",
+    "roadwork",
+    "carkeys",
+    "roadchain",
+    "roadcoin",
+    "roadbook",
+    "roadworld",
+    "officeroad",
+    "carpool",
+    "oneway",
+    "roadside",
+    "blackboard"
+  ],
+  "scripts": {
+    "dev": "echo 'Use: npm run dev --workspace=@blackroad/<product>'",
+    "build": "echo 'Use: npm run build --workspace=@blackroad/<product>'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlackRoadOS/Application.git"
+  },
+  "homepage": "https://app.blackroad.io",
+  "author": "BlackRoad OS, Inc.",
+  "license": "SEE LICENSE IN LICENSE"
+}

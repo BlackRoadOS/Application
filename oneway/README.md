@@ -2,10 +2,13 @@
 
 *Your data leaves when you say. Never look back.*
 
-One-way data export API. Forward-only, RoadChain-verified.
+One-way data export. Forward-only, RoadChain-verified.
 
 **Status:** PLANNED
+**URL:** [oneway.blackroad.io](https://oneway.blackroad.io)
 
-Part of [BlackRoad OS](https://blackroad.io) — Remember the Road. Pave Tomorrow.
+Part of [BlackRoad OS](https://app.blackroad.io) — Remember the Road. Pave Tomorrow.
 
-See [full product features](../brand/PRODUCT-FEATURES.md) | [product copy](../brand/PRODUCTS.md)
+---
+
+**Pave Tomorrow.**

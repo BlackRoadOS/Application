@@ -5,7 +5,10 @@
 Creative studio for ads, videos, campaigns with RoadChain provenance.
 
 **Status:** PLANNED
+**URL:** [blackboard.blackroad.io](https://blackboard.blackroad.io)
 
-Part of [BlackRoad OS](https://blackroad.io) — Remember the Road. Pave Tomorrow.
+Part of [BlackRoad OS](https://app.blackroad.io) — Remember the Road. Pave Tomorrow.
 
-See [full product features](../brand/PRODUCT-FEATURES.md) | [product copy](../brand/PRODUCTS.md)
+---
+
+**Pave Tomorrow.**

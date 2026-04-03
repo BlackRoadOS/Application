@@ -2,11 +2,13 @@
 
 *Construction ahead. Your business builds itself.*
 
-Business automation with 7 specialized agents: Finance, Support, Marketing, Ops, Legal, Analytics, Growth.
+Business automation with 27 specialized agents.
 
 **Status:** LIVE
-**Live:** https://work.blackroad.io
+**Live:** [roadwork.blackroad.io](https://roadwork.blackroad.io)
 
-Part of [BlackRoad OS](https://blackroad.io) — Remember the Road. Pave Tomorrow.
+Part of [BlackRoad OS](https://app.blackroad.io) — Remember the Road. Pave Tomorrow.
 
-See [full product features](../brand/PRODUCT-FEATURES.md) | [product copy](../brand/PRODUCTS.md)
+---
+
+**Pave Tomorrow.**

@@ -1,11 +1,14 @@
 # RoadSide
 
-*Pull over. We'll take it from here.*
+*Pull over. We will take it from here.*
 
-Conversational onboarding agent that sets up your entire BlackRoad in minutes.
+Conversational onboarding agent that sets up your entire BlackRoad.
 
 **Status:** PLANNED
+**URL:** [roadside.blackroad.io](https://roadside.blackroad.io)
 
-Part of [BlackRoad OS](https://blackroad.io) — Remember the Road. Pave Tomorrow.
+Part of [BlackRoad OS](https://app.blackroad.io) — Remember the Road. Pave Tomorrow.
 
-See [full product features](../brand/PRODUCT-FEATURES.md) | [product copy](../brand/PRODUCTS.md)
+---
+
+**Pave Tomorrow.**

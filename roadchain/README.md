@@ -2,11 +2,13 @@
 
 *Every mile, stamped and sealed.*
 
-Blockchain verification layer. Immutable hash chain. 7 blocks live.
+Blockchain verification layer. Immutable hash chain. Merkle proofs.
 
 **Status:** LIVE
-**Live:** https://chain.blackroad.io
+**Live:** [roadchain.blackroad.io](https://roadchain.blackroad.io)
 
-Part of [BlackRoad OS](https://blackroad.io) — Remember the Road. Pave Tomorrow.
+Part of [BlackRoad OS](https://app.blackroad.io) — Remember the Road. Pave Tomorrow.
 
-See [full product features](../brand/PRODUCT-FEATURES.md) | [product copy](../brand/PRODUCTS.md)
+---
+
+**Pave Tomorrow.**

@@ -1,0 +1,20 @@
+{
+  "name": "@blackroad/backroad",
+  "version": "0.1.0",
+  "description": "BackRoad — sovereign social network",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlackRoadOS/Application.git",
+    "directory": "backroad"
+  },
+  "homepage": "https://backroad.blackroad.io",
+  "author": "BlackRoad OS, Inc.",
+  "license": "SEE LICENSE IN LICENSE",
+  "private": true
+}
