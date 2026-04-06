@@ -1,12 +1,43 @@
-# RoadChain
+# roadchain — BlackRoad OS
 
-*Every mile, stamped and sealed.*
+**Live:** [roadchain.blackroad.io](https://roadchain.blackroad.io)
+**Part of:** [BlackRoad OS](https://os.blackroad.io) — browser-based desktop with 27 AI agents
 
-Blockchain verification layer. Immutable hash chain. 7 blocks live.
+## Try It
 
-**Status:** LIVE
-**Live:** https://chain.blackroad.io
+Open [os.blackroad.io](https://os.blackroad.io) in any browser. No signup required. Click roadchain in the dock.
 
-Part of [BlackRoad OS](https://blackroad.io) — Remember the Road. Pave Tomorrow.
+Or visit [roadchain.blackroad.io](https://roadchain.blackroad.io) directly.
 
-See [full product features](../brand/PRODUCT-FEATURES.md) | [product copy](../brand/PRODUCTS.md)
+## What It Does
+
+roadchain is one of 17 products in BlackRoad OS, a browser-based operating system running on 5 Raspberry Pi 5 computers with Hailo-8 AI accelerators.
+
+- **     714 lines** of working code
+- Workers AI powered (Llama 3.1/3.2)
+- D1 database (SQLite at edge)
+- Part of the 27-agent ecosystem
+- No ads. No tracking. No algorithm.
+
+## Stack
+
+- Runtime: Cloudflare Workers
+- Database: Cloudflare D1
+- AI: Workers AI
+- Auth: CarKeys (JWT + D1 sessions)
+
+## BlackRoad OS
+
+17 products. 27 AI agents. 4 workspaces. Voice commands. Mesh compute. $200 of hardware.
+
+- **OS:** [os.blackroad.io](https://os.blackroad.io)
+- **Social:** [backroad.blackroad.io](https://backroad.blackroad.io)
+- **Agents:** [roadtrip.blackroad.io](https://roadtrip.blackroad.io)
+- **Tutor:** [roadie.blackroad.io](https://roadie.blackroad.io)
+- **Search:** [roadview.blackroad.io](https://roadview.blackroad.io)
+- **Code:** [roadcode.blackroad.io](https://roadcode.blackroad.io)
+- **GitHub:** [github.com/BlackRoadOS](https://github.com/BlackRoadOS)
+
+## License
+
+PROPRIETARY. Copyright 2025-2026 BlackRoad OS, Inc. All rights reserved.
